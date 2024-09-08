@@ -13,7 +13,7 @@
 
 Before using the script, make sure you have:
 
-- **Python 3.x** installed.
+- **Python3** installed.
 - A **Twilio account** with an active phone number. Sign up [here](https://www.twilio.com/).
 - A registered **Twilio phone number** to send messages from.
 
