@@ -31,8 +31,8 @@ Before using this tool, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mubbashirulislam/SMS-Automation-Tool.git
-   cd SMS-Automation-Tool
+   git clone https://github.com/mubbashirulislam/AutoTexter.git
+   cd AutoTexter
    ```
 
 2. **Create and Activate a Virtual Environment**:
